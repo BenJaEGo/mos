@@ -1,2 +1,2 @@
-# mos
-mos evaluation of synthesized sample by different methods
+# audio_samples
+synthesized sample by different methods
