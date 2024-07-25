@@ -1,2 +1,2 @@
 # audio_samples
-synthesized sample by different methods
+mos evaluation of synthesized samples by different neural vocoders.
