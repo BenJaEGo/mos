@@ -170,3 +170,6 @@ cython_debug/
 /raw_ref_audio
 /samples
 /roft
+/results
+/pitches
+/melspecs
